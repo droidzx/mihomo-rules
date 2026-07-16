@@ -1,0 +1,25 @@
+# Plex 远程访问
+DOMAIN-SUFFIX,v4.plex.tv
+DOMAIN-SUFFIX,app.plex.tv
+DOMAIN-SUFFIX,clients.plex.tv
+DOMAIN-SUFFIX,myunraid.net
+
+# tiktok
+DOMAIN-SUFFIX,tiktokshopglobalselling.com
+# DOMAIN-SUFFIX,byteoversea.com
+# DOMAIN-SUFFIX,tiktokv.com
+# DOMAIN-SUFFIX,tiktokv.us
+# DOMAIN-SUFFIX,tiktokcdn-us.com
+# DOMAIN-SUFFIX,tiktokcdn.com
+
+# other
+DOMAIN-SUFFIX,huangshenay.com
+DOMAIN-SUFFIX,sn.mynetname.net # mikrotik ddns
+
+# 机场官网，返回真实 IP 并直连
+DOMAIN-SUFFIX,trumpyun.com
+DOMAIN-SUFFIX,guatizi.com
+DOMAIN-SUFFIX,鹿语云.com
+DOMAIN-SUFFIX,nxonearth.com
+DOMAIN-SUFFIX,god-world.com
+DOMAIN-SUFFIX,curlalt.com
