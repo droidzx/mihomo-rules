@@ -17,5 +17,7 @@ DOMAIN-SUFFIX,god-world.com
 DOMAIN-SUFFIX,curlalt.com
 
 # 其他零散
-DOMAIN-SUFFIX,sn.mynetname.net # mikrotik ddns
-DOMAIN-SUFFIX,myunraid.net #unraid 
+# mikrotik ddns
+DOMAIN-SUFFIX,sn.mynetname.net
+# unraid
+DOMAIN-SUFFIX,myunraid.net 
