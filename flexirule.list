@@ -19,6 +19,11 @@ DOMAIN-SUFFIX,starling-oversea.byteoversea.com
 DOMAIN-SUFFIX,vmweb-sg.byteoversea.com
 
 
+# Cloudflare Tunnel
+DOMAIN-SUFFIX,argotunnel.com
+DOMAIN,api.cloudflare.com
+
+
 # 机场官网
 DOMAIN-SUFFIX,trumpyun.com
 DOMAIN-SUFFIX,guatizi.com
