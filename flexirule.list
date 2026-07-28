@@ -4,8 +4,19 @@ DOMAIN-SUFFIX,app.plex.tv
 DOMAIN-SUFFIX,clients.plex.tv
 
 
-# tiktok
+# TikTok Shop 中国直连
 DOMAIN-SUFFIX,tiktokshopglobalselling.com
+DOMAIN-SUFFIX,lf-gs-frontend-cn.fanchenstatic.com
+DOMAIN-SUFFIX,lf16-oversea.goofy-cdn.com
+DOMAIN-SUFFIX,lf16-scmcdn.oecstatic.com
+DOMAIN-SUFFIX,mmo.fanczs.com
+DOMAIN-SUFFIX,seller.tiktokglobalshop.com
+DOMAIN-SUFFIX,sf-gs-frontend-sg.fanchenstatic.com
+DOMAIN-SUFFIX,sf-static-dr.goofy-cdn.com
+DOMAIN-SUFFIX,sf16-website-login.neutral.ttwstatic.com
+DOMAIN-SUFFIX,sgali-mcs.byteoversea.com
+DOMAIN-SUFFIX,starling-oversea.byteoversea.com
+DOMAIN-SUFFIX,vmweb-sg.byteoversea.com
 
 
 # 机场官网
