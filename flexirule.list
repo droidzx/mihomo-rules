@@ -22,3 +22,6 @@ DOMAIN-SUFFIX,sn.mynetname.net
 # unraid
 DOMAIN-SUFFIX,myunraid.net 
 DOMAIN-SUFFIX,backup.unraid.net
+
+# 派安盈
+DOMAIN-KEYWORD,payoneer
